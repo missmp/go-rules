@@ -9,10 +9,9 @@ import (
 
 	"github.com/icrowley/fake"
 
+	rules "github.com/missmp/go-rules"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-
-	rules "github.com/sonda2208/go-rules"
 )
 
 type Evaluation struct {

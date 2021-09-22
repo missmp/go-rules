@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/antlr/antlr4/runtime/Go/antlr"
-	"github.com/sonda2208/go-rules/parser"
+	"github.com/missmp/go-rules/parser"
 )
 
 type exprStack struct {
