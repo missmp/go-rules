@@ -1,6 +1,6 @@
 module github.com/missmp/go-rules
 
-go 1.15
+go 1.13
 
 require (
 	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20210914074925-ce3c483ec505
